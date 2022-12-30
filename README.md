@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caynerc
 - 👀 I’m interested in data and design thinking
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate with businesses
+- 💞️ I’m looking to collaborate with businesses and with fellow data analysts
 - 📫 Reach me through caynerc@gmail.com or [LinkedIn](linkedin.com/in/caynercuritana)
 
 <!---
